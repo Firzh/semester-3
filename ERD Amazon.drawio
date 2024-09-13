@@ -5,24 +5,24 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YlhhfSobjes1HJvtvpS9-1" value="Amazon" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="410" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-2" value="Supplier" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="45" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="45" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-3" value="Customer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="43" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-4" value="Barang" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-35" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="-35" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-5" value="Approving" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-11" value="" style="shape=link;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-5" target="YlhhfSobjes1HJvtvpS9-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="220" as="sourcePoint" />
-            <mxPoint x="600" y="220" as="targetPoint" />
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="580" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-12" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-11">
@@ -41,21 +41,21 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-16" value="Semua barang harus disetujui, tapi tidak semua barang disetujuui" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="430" width="140" height="90" as="geometry" />
+          <mxGeometry x="-90" y="430" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-17" value="Banyak barang. Barang tidak wajib terdaftar saat pembuatan akun supplier" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-90" width="140" height="95" as="geometry" />
+          <mxGeometry x="-90" y="-90" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-18" value="Banyak barang, banyak pegawai" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="740" width="140" height="90" as="geometry" />
+          <mxGeometry x="10" y="740" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-19" value="Keranjang" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="-35" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-2" target="YlhhfSobjes1HJvtvpS9-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="135" as="sourcePoint" />
-            <mxPoint x="540" y="85" as="targetPoint" />
+            <mxPoint x="470" y="135" as="sourcePoint" />
+            <mxPoint x="520" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-3" target="YlhhfSobjes1HJvtvpS9-19">
@@ -101,12 +101,12 @@
           <mxGeometry x="560" y="-115" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-33" value="Managing Invoices" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-34" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-2" target="YlhhfSobjes1HJvtvpS9-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="260" as="sourcePoint" />
-            <mxPoint x="550" y="260" as="targetPoint" />
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-35" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-34">
@@ -128,7 +128,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-40" value="Supplier wajib membuat invoice semua pesanan. Dan mengirimkannya ke Amazon" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="530" width="140" height="100" as="geometry" />
+          <mxGeometry x="140" y="530" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-41" value="Bank" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="100" height="40" as="geometry" />
@@ -144,9 +144,6 @@
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-44" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-43">
           <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YlhhfSobjes1HJvtvpS9-45" value="Supplier wajib membuat invoice semua pesanan. Dan mengirimkannya ke Amazon" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="489.5" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-46" value="Invoice dibuat" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="360.5" width="95" height="59.5" as="geometry" />
@@ -164,6 +161,126 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YlhhfSobjes1HJvtvpS9-50" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-48">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-58" value="Semua Customer mentransfer uang ke bank" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-41" target="YlhhfSobjes1HJvtvpS9-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-60" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-59">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-61" value="Proses transfer diterima oleh sistem bank" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-62" value="Transfering" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-62" target="YlhhfSobjes1HJvtvpS9-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-67" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-66">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-68" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-1" target="YlhhfSobjes1HJvtvpS9-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-69" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-68">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-70" value="sistem bank mengirim uang ke rekening bank milik Amazon" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-72" value="Transfering" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-62" target="YlhhfSobjes1HJvtvpS9-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="495" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-74" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-73">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-1" target="YlhhfSobjes1HJvtvpS9-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="sourcePoint" />
+            <mxPoint x="445" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-76" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-75">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-77" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-41" target="YlhhfSobjes1HJvtvpS9-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="150" as="sourcePoint" />
+            <mxPoint x="600" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-78" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-77">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-79" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-2" target="YlhhfSobjes1HJvtvpS9-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="73" as="sourcePoint" />
+            <mxPoint x="660" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-80" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-79">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-81" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-79">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-82" value="sistem bank mengirim uang ke rekening bank milik Supplier" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-83" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Delivery&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="760" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-85" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-83" target="YlhhfSobjes1HJvtvpS9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="650" as="sourcePoint" />
+            <mxPoint x="690" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-86" value="Delivering" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-87" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YlhhfSobjes1HJvtvpS9-1" target="YlhhfSobjes1HJvtvpS9-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="440" as="sourcePoint" />
+            <mxPoint x="890" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-88" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-87">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-89" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-87">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-45" value="Supplier wajib membuat invoice semua pesanan. Dan mengirimkannya ke Amazon" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="489.5" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-90" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="460" as="sourcePoint" />
+            <mxPoint x="570" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlhhfSobjes1HJvtvpS9-91" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="YlhhfSobjes1HJvtvpS9-90">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
