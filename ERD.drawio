@@ -319,7 +319,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5L-upgqXnPn6pkHHxa_c-1" value="Nama : Muhammad Rizqy Alfy Firmansyah&lt;div&gt;NIM&amp;nbsp; &amp;nbsp; : 23051204043&lt;/div&gt;&lt;div&gt;Kelas : TIB 23&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="-50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JxeVqtzOPsnMNES6PSG9-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wej8ORWZU7e7zhtMW4-o-45" target="Wej8ORWZU7e7zhtMW4-o-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
