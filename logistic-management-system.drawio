@@ -2326,7 +2326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UYbtS0NqdsuP1w3oM-qU" name="Physical Data Model">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2399" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3068,13 +3068,13 @@
             <mxPoint x="-310" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8siavPWVmU5ys_ey5n3Q-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Entity&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8siavPWVmU5ys_ey5n3Q-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;INT(12)&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-10" width="236" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8siavPWVmU5ys_ey5n3Q-161" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Entity&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8siavPWVmU5ys_ey5n3Q-161" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;VARCHAR(255)&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-70" width="236" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8siavPWVmU5ys_ey5n3Q-162" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Entity&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8siavPWVmU5ys_ey5n3Q-162" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;TEXT&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-40" width="236" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8siavPWVmU5ys_ey5n3Q-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;INT(12)&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
