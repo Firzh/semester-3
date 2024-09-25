@@ -790,7 +790,7 @@
         <mxCell id="1khDNOESsIGDO-82ppDu-6" value="IDProduksi" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1khDNOESsIGDO-82ppDu-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Produksi&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="1khDNOESsIGDO-82ppDu-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Supplier_Produk&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2.5" y="190" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1khDNOESsIGDO-82ppDu-8" value="IDSupplier" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -2272,7 +2272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UYbtS0NqdsuP1w3oM-qU" name="Physical Data Model">
-    <mxGraphModel dx="2399" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
