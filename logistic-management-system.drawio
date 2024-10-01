@@ -1153,7 +1153,7 @@
         <mxCell id="oSruMIpiFcLg6QtZfj6p-16" value="PK" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="95" y="40" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oSruMIpiFcLg6QtZfj6p-17" value="IDCustomer" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="oSruMIpiFcLg6QtZfj6p-17" value="ID_Customer" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="77.5" y="441" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oSruMIpiFcLg6QtZfj6p-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pelanggan&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -1500,6 +1500,24 @@
         </mxCell>
         <mxCell id="e3-zbzqVZHT2BIUR5zAv-6" value="FK M.Karyawan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1680.5" y="361" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-7" value="ID_Supplier" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-8" value="FK Supplier" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="150" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-9" value="ID_Penerimaan_HUB" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="551" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-10" value="FK Terima HUB" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="591" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-11" value="ID_Karyawan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="551" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-zbzqVZHT2BIUR5zAv-12" value="FK Karyawan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="521.25" y="591" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
