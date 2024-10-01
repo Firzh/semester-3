@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="10">
   <diagram id="nseYLLofCJ-2jlKQy21q" name="Conceptual Data Model">
     <mxGraphModel dx="2687" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1333,29 +1333,35 @@
         <mxCell id="lI9ev9OgqIkiLWpzEe-e-6" value="PK" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="862.5" y="40" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-1" value="Email" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-1" value="Email" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1280" y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-2" value="Keterangan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-2" value="Keterangan" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1380" y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-3" value="ID_Kontrak" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-3" value="ID_Kontrak" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="847.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kontrak_Logistik&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kontrak_Logistik&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="170" width="255" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-5" value="ID_Perusahaan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-5" value="ID_Perusahaan" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-6" value="Alamat" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-6" value="Tgl_Mulai" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1047.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-7" value="Kontak" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1147.5" y="210" width="100" height="30" as="geometry" />
+        <mxCell id="JC21_rwVFT6q56kAy2gc-7" value="Nilai_Kontrak" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JC21_rwVFT6q56kAy2gc-9" value="FK Perusahaan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JC21_rwVFT6q56kAy2gc-9" value="FK Perusahaan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="948.75" y="250" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lQsJws9TQjLg0V_XpwUy-1" value="Status_Kontrak" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1347.5" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lQsJws9TQjLg0V_XpwUy-2" value="Tgl_Selesai" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="210" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
