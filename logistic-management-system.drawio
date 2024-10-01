@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zw2l1o9wcNj9Z25-Pq8g" name="Schema Data Model">
-    <mxGraphModel dx="636" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1536,6 +1536,12 @@
         </mxCell>
         <mxCell id="e3-zbzqVZHT2BIUR5zAv-18" value="FK Lokasi" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="701" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JeaBJUdq15yhPohqWB62-1" value="ID_Karyawan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="661" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JeaBJUdq15yhPohqWB62-2" value="FK Karyawan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="701" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
