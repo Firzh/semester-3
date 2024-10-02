@@ -3144,11 +3144,32 @@
         <mxCell id="6HLabhC9B9VVWnHFQyGW-7" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6HLabhC9B9VVWnHFQyGW-6">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HLabhC9B9VVWnHFQyGW-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Keterangan&lt;/h1&gt;&lt;p&gt;Perusahaan klien menandatangani kontrak yang spesifik secara one-on-one&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-980" width="180" height="120" as="geometry" />
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Keterangan&lt;/h1&gt;&lt;p&gt;Perusahaan klien menandatangani kontrak yang spesifik secara one-to-one&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Merupakan partisipasi parsial karena tidak semua perusahaan klien menandatangani kontrak (batal)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-980" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6HLabhC9B9VVWnHFQyGW-9" value="Menyepakati" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-10" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6DF3DTvt27Mj6VPL8ac-26" target="6HLabhC9B9VVWnHFQyGW-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-780" as="sourcePoint" />
+            <mxPoint x="160" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-11" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6HLabhC9B9VVWnHFQyGW-10">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-12" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6HLabhC9B9VVWnHFQyGW-9" target="U6DF3DTvt27Mj6VPL8ac-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-780" as="sourcePoint" />
+            <mxPoint x="160" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-13" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6HLabhC9B9VVWnHFQyGW-12">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Keterangan&lt;/h1&gt;&lt;p&gt;Perusahaan logistik menyepakati kontrak logistik secara one-to-many karena 1 Perusahaan dapat memiliki banyak kontrak&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Merupakan partisipasi total karena semua perusahaan logistik menyepakati kontrak&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-980" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
