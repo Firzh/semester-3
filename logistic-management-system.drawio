@@ -3249,7 +3249,7 @@
         <mxCell id="6HLabhC9B9VVWnHFQyGW-35" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6HLabhC9B9VVWnHFQyGW-34">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HLabhC9B9VVWnHFQyGW-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Keterangan&lt;/h1&gt;&lt;p&gt;Manajemen Karyawan mengelola gaji karyawan secara one-to-many karena terdapat banyak lebih dari 1 departemen&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Merupakan partisipasi total karena departemen ini&amp;nbsp;dinaungi secara penuh&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6HLabhC9B9VVWnHFQyGW-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Keterangan&lt;/h1&gt;&lt;p&gt;Manajemen Karyawan mengelola gaji karyawan secara one-to-many karena terdapat banyak karyawan&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Merupakan partisipasi total karena departemen ini&amp;nbsp;mengelola gaji karyawan secara penuh&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="-680" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
