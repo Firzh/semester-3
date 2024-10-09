@@ -1027,9 +1027,6 @@
         <mxCell id="Ac6Uo4lfMbaWScHA53oJ-20" value="kontak" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1797.5" y="260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ac6Uo4lfMbaWScHA53oJ-21" value="job_title" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1797.5" y="370" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ac6Uo4lfMbaWScHA53oJ-22" value="placement_id" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1397.5" y="370" width="100" height="30" as="geometry" />
         </mxCell>
