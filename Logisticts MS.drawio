@@ -818,8 +818,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="P6BCodDPuA_zAy3CEYET" name="3NF">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="P6BCodDPuA_zAy3CEYET" name="Normalisasi">
+    <mxGraphModel dx="996" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
